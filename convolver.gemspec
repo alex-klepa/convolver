@@ -13,7 +13,7 @@ Gem::Specification.new do |spec|
   spec.homepage      = "http://github.com/neilslater/convolver"
   spec.license       = "MIT"
 
-  spec.add_dependency "narray", ">= 0.6.0.8"
+  #spec.add_dependency "narray", ">= 0.6.0.8"
   spec.add_dependency "fftw3", ">= 0.3"
 
   spec.add_development_dependency "yard", ">= 0.8.7.2"
